@@ -5,11 +5,11 @@
 <img src="https://github.com/JuanMiChee/JuanMiChee/assets/88286626/a75c9ba2-e905-49d9-9fbe-132419e72b0f">
 
 ## About me
-- 📱-> Mobile Developer
--  -> iOS Developer environment focused
-- 🌱-> Currently learning (Remember to change this)
-- 💞️-> Looking to collaborate on iOS bootcamps
-- 📫-> How to reach me Harringtonjuanc@gmail.com or 📫-> https://www.linkedin.com/in/harringtonjuan/
+ 📱-> Mobile Developer
+  -> iOS Developer environment focused
+ 🌱-> Currently learning (Remember to change this)
+ 💞️-> Looking to collaborate on iOS bootcamps
+ 📫-> How to reach me Harringtonjuanc@gmail.com or 📫-> https://www.linkedin.com/in/harringtonjuan/
 
 <!---
 JuanMiChee/JuanMiChee is a ✨ special ✨ repository because its
