@@ -1,4 +1,4 @@
-                                 Hola! soy JuanHarrington 👋
+Hi! I'm JuanHarrington 👋
 ![asdads](https://github.com/JuanMiChee/JuanMiChee/assets/88286626/a75c9ba2-e905-49d9-9fbe-132419e72b0f)
 
 
