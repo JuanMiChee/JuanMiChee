@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Juan Harrington</h1>
 <h3 align="center">A passionate Mobile developer from Venezuela 🇻🇪</h3>
 
+<img src="https://github.com/JuanMiChee/JuanMiChee/assets/88286626/a75c9ba2-e905-49d9-9fbe-132419e72b0f">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmichee&label=Profile%20views&color=0e75b6&style=flat" alt="juanmichee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanmichee" alt="juanmichee" /></a> </p>
 
-- 🌱 I’m currently learning **Clean architecture**
+## About me
 
-- 📄 Ask me about **iOS Development**
-
-- 📫 How to reach me **Harringtonjuanc@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/harringtonjuan/](https://www.linkedin.com/in/harringtonjuan/)
+ - 📱-> Mobile Developer.
+   
+ -  -> iOS Developer environment focused.
+   
+ - 🌱-> Currently learning Clean architecture.
+   
+ - 💞-> Looking to collaborate on iOS bootcamps.
+   
+ - 📫-> How to reach me Harringtonjuanc@gmail.com or 📫-> https://www.linkedin.com/in/harringtonjuan/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmichee&show_icons=true&locale=en&layout=compact" alt="juanmichee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmichee&show_icons=true&locale=en" alt="juanmichee" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmichee&" alt="juanmichee" /></p>
